@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the states of Holland and Friezland, concerning Prince Charles, and the Parliament of England; and their proclamation to be proclaimed throughout the United Provinces; with a message and declaration to His Highnesse, and his desires proposals to the states. Also, a proclamation to be proclaimed throughout the cities of London and VVestminster (this present Thursday) concerning the said Prince Charles.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82234</idno>
+            <idno type="STC">Wing D768</idno>
+            <idno type="STC">Thomason E556_14</idno>
+            <idno type="STC">ESTC R205768</idno>
+            <idno type="EEBO-CITATION">99865049</idno>
+            <idno type="PROQUEST">99865049</idno>
+            <idno type="VID">165133</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82234)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165133)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E556[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the states of Holland and Friezland, concerning Prince Charles, and the Parliament of England; and their proclamation to be proclaimed throughout the United Provinces; with a message and declaration to His Highnesse, and his desires proposals to the states. Also, a proclamation to be proclaimed throughout the cities of London and VVestminster (this present Thursday) concerning the said Prince Charles.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for G.W.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>May 24. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Netherlands --  1648-1714 --  Early works to 1800.</term>
+               <term>Netherlands --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Netherlands --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165133:1" rendition="simple:additions"/>
+            <p>THE DECLARATION OF THE STATES Of <hi>HOLLAND</hi> and <hi>FRIEZLAND,</hi> CONCERNING Prince Charles, AND The <hi>PARLIAMENT</hi> of <hi>ENGLAND;</hi> AND Their Proclamation to be proclaimed throughout the United Provinces; With a Meſſage and Decla<g ref="char:EOLhyphen"/>ration to His Highneſſe, and His Deſires Propoſals to the States.</p>
+            <p>ALSO, A Proclamation to be proclaimed throughout the Cities of <hi>London</hi> and <hi>VVeſtminſter</hi> (this pre<g ref="char:EOLhyphen"/>ſent <hi>Thurſday</hi>) concerning the ſaid Prince <hi>CHARLES.</hi>
+            </p>
+            <p>Imprinted at <hi>London</hi> for <hi>G. W. May</hi> 24. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="resolution_concerning_Prince_Charles">
+                        <pb facs="tcp:165133:2"/>
+                        <pb n="1" facs="tcp:165133:2"/>
+                        <head>THE RESOLUTION OF THE STATES OF <hi>Holland</hi> and <hi>Friezland,</hi> concerning Prince <hi>Charles,</hi> and the Parliament of <hi>England,</hi> and their Proclama<g ref="char:EOLhyphen"/>tion to be proclaimed throughout the <hi>Netherlands</hi> thereupon.</head>
+                        <opener>
+                           <salute>SIR,</salute>
+                        </opener>
+                        <p>
+                           <seg rend="decorInit">T</seg>He Earl of <hi>Montroſſe</hi> being conſtituted and made Generall for <hi>Scotland,</hi> the Prince hath negotiated with the States for ten thouſand Armes, who upon conſultation in reference thereunto, reſolved not to intermeddle in the leaſt, but to endeavour the preſer<g ref="char:EOLhyphen"/>vation of a right underſtanding between the Republick
+<pb n="2" facs="tcp:165133:3"/>of <hi>England,</hi> and the <hi>Netherlanders,</hi> and in order there<g ref="char:EOLhyphen"/>unto hath ſent an Expreſſe to his Highneſſe, purporting, <hi>That He must either depart the Vnited Provinces, or acquit himſelf of his followers, they being held in an uni<g ref="char:EOLhyphen"/>verſall hatred for the late barbariſme committed upon the Parliaments Agent.</hi>
+                        </p>
+                        <p>But yet notwithſtanding the Prince hath ſent new Pro<g ref="char:EOLhyphen"/>poſitions, to the States, deſiring 2000. Gilders for his preſent accommodation, for a certain time, which its believed he will be furniſhed withall, for the Prince of <hi>Orenge</hi> hath declared a willingneſſe, to contribute to<g ref="char:EOLhyphen"/>ward his preſent neceſſities.</p>
+                        <p>The Scots Commiſſioners have delivered in their laſt paper to his Highneſſe, wherein they declare, <hi>That they cannot deſcend any lower then what they have alrea<g ref="char:EOLhyphen"/>dy offered, and that if He will not give his aſſent to thoſe things therein ſpecified, they muſt be inforced to take care of that Kingdome, for the preſervation of the fundamen<g ref="char:EOLhyphen"/>tall Rights and Liberties of the people, and oppoſe all per<g ref="char:EOLhyphen"/>ſons whatſoever that ſhal endeavour to attempt or aſsume any power within their Territories, for the obſtructing of the peace thereof.</hi>
+                        </p>
+                        <p>The Prince being highly diſpleaſed at theſe demon<g ref="char:EOLhyphen"/>ſtrations, in a great paſſion declared, <hi>that they were bound to obey, maintain, and defend his perſon as their dread ſo<g ref="char:EOLhyphen"/>veraign Lord and King, and that if they did deſiſt from their former acknowledgment, he would give them ſuch a Memento, that ſhould prove both effectuall and ſatisfacto<g ref="char:EOLhyphen"/>ry.</hi>
+                        </p>
+                        <p>Yet many of his Grandees begin to wave their for<g ref="char:EOLhyphen"/>mer Reſolutions, and begin to appear obſcure in their a<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>tings, which is conceived to ariſe from the preſent
+<pb n="3" facs="tcp:165133:3"/>declinings and remonſtrations of the State provinciall of <hi>Holland,</hi> and <hi>West-Friezland,</hi> who have declared their Reſolutions, to preſerve and continue a good correſpondency between the two States of <hi>England</hi> and <hi>Holland;</hi> and are reſolved to uſe their utmoſt ende<g ref="char:EOLhyphen"/>vours for the ſuppreſſing, and bringing to condigne pu<g ref="char:EOLhyphen"/>niſhment all perſons whatſoever, that ſhall foment, ſuggeſt or ſeditiouſly ſtir up the people, in raiſing any thing tending to the illegality of the proceedings of the aforeſaid States, and are likewiſe reſolved to ſet forth proclamation, prohibiting all perſons from act<g ref="char:EOLhyphen"/>ing or intermedling with the publique affaires of either States, in reference to the diſcountenancing or with<g ref="char:EOLhyphen"/>drawing of others from their due obedience, upon pain of incurring ſuch penalties, as ſhall be inflicted upon them according to their demerits.</p>
+                        <p>This Proclamation is to be proclaimed throughout all the reſpective United provinces.</p>
+                        <p>We hear that the princes Deſign goes very ſlowly on at Sea, and that inſtead of becomming maſters ther<g ref="char:EOLhyphen"/>of, are here eſteemed as great loſers; for it is ſaid, that the two unfortunate princes, <hi>Rupert</hi> and <hi>Maurice,</hi> hath loſt 12 ſayl of ſhips, and above one hundred and fifty pieces of Ordnance.</p>
+                        <p>Prince <hi>Charles</hi> Elector Palatine of the <hi>Rhyne,</hi> hath ſent a Meſſage and full ſubmiſſion to the <hi>Emperor</hi> of <hi>Germa<g ref="char:EOLhyphen"/>ny,</hi> ſo that it is believed the reſtitution of his Country will be ſuddenly accompliſhed.</p>
+                        <closer>
+                           <signed>Hague 19. May, 1649.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>A deſcription of the Levellers, and the ſpeeches of thoſe that were lately executed, are as followeth, and firſt be pleaſed to peruſe the words of undanted <hi>Tom<g ref="char:EOLhyphen"/>ſon.</hi>
+            </p>
+            <pb n="3" facs="tcp:165133:4"/>
+            <p> 
+               <hi>That it is juſt what did befal him, that God did not <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the ways he went, that he had offended the General, and de<g ref="char:EOLhyphen"/>ſired the prayers of the people, and told the ſouldiers that were appointed to ſhoot him, that when he held out his hand they ſhould do their duties, and accordingly he was imme<g ref="char:EOLhyphen"/>diatly a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter the ſign given ſhot to death,</hi> next after him was a corporal brought to the ſame place of execution <hi>where looking vpon his fellow mutineer and bid them that were appointed to ſhoot, ſhoot, and dyed deſperately.</hi> The third being alſo a corpor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l brought to the ſame place, <hi>and without the leaſt acknowledgement of errour, or ſhew of fear, pulled off his Dublet (ſtanding a pretty diſtance from the wall) bidding the ſoldiers do their duties, looking them in the face, till they gave fire, not ſhewing the least kind of t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rror or fearfulnes of ſpirit.</hi> After theſe 3 corner Dan, was brought to the place of execution, <hi>he exprest himſelf with much penitancy, and ſaid that he was more worthy to dy then live, with much remorſe of conſcience for being an occaſion to lead others into this way of mutiny, and diſobedience.</hi> But immediate before the act of exe<g ref="char:EOLhyphen"/>cution, The General ſent him a pardon, and he was ſen<g ref="char:EOLhyphen"/>ſible of the mercy all that while this act of Juſtice was doing, the reſt of the mutineers were in the church be<g ref="char:EOLhyphen"/>holding the ſad ſpectacle, and after all was over Lieut, Gen. Cromwel, and other officers went to them in the Church<g ref="char:punc">▪</g> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd acuainted them how mercifully the Gen. had dealt with them, that he had deſtinated them, and hath made ſo few examples (excepting only every tenth man to dy the mutiny being of ſo high a nature ha<g ref="char:EOLhyphen"/>zarding the ruin of the Parliament and Kingdome, and delivering up all honeſt men to the cruelty of the Common enemy againſt whom they had fought ſo long.</p>
+            <pb n="4" facs="tcp:165133:4"/>
+            <p> This is to be obſerved, that before the Sentence of the Councel of war paſſed againſt them, they were very high and peremptory in their language and carriage, but the Sentence of death ſo ſtruck them, that when they had their monies ſent them to buy proviſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns, they all refuſed to ac<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ept of it, ſaying, they muſt take care to provide for the Soul, and not for the Body, and ma<g ref="char:EOLhyphen"/>ny of them wept bitterly for the unhappineſſe of their condition, i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> being miſled to ſo rude a buſineſſe; it is likewiſe ſ<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ly to be obſerved that many of thoſe men being form<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rly great profeſſors of the Goſpel, have of late thrown off all Ordinances, nay ſome, the Scripture it ſelf, fancying to themſelves, that t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey live above Or<g ref="char:EOLhyphen"/>dinances or Rules of Scripture; and God hath ſuffered them to be inſnared with ſuch temptations of the Di<g ref="char:EOLhyphen"/>vell as to be <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eft to themſelves.</p>
+            <p>Cornet <hi>Den</hi> did confeſſe that many of that party that were thus engaged with him, their hearts were ſo inra<g ref="char:EOLhyphen"/>ged, and full of bitterneſſe againſt the Parliament party, and all others that did not adhere unto them, that he did think in his conſcience there would have bin great cru<g ref="char:EOLhyphen"/>elty uſed by theſe men, and that it was a bleſſed and hap<g ref="char:EOLhyphen"/>py hour they were ſurprized and prevented. Colonell <hi>Eyres</hi> is now brought priſoner to <hi>Oxford,</hi> to be tryed for his life: Hee did in n high manner exaſperate the Mutineers, and at <hi>Newbridge</hi> led on the Forlorn Hope, &amp; would have charged col. <hi>Reynold,</hi> and col. <hi>Okey,</hi> who made good the paſſe againſt him, though they were but a handfull to their number; he with divers others was in that houſe where that man was killed of our party, and ſhot divers of our ſouldiers before they would yeeld.</p>
+            <closer>
+               <dateline>Oxford <date>21 May, 1649.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <pb n="6" facs="tcp:165133:5"/>
+               <p>Upon the 23 of this inſtant, came further intelli<g ref="char:EOLhyphen"/>gence, that another party of Levellers began to appeare viſible in the Iſle of Wight, and were reſolved to ſet up their Standard of Sea-green Colours, making great boaſts of divers parties prevailing for them it, <hi>England</hi> thinking thereby to ſeduce the Souldiery (by which meanes they did miſlead ſome) and the people; but a ſpeedy couſe is taking for the ſuppreſſing of them, and the major part of the Inhabitants and Souldiery have declared a unanimous reſolution to live and dye with the Parliament and Army.</p>
+               <p>The grand proclamation touching <hi>Charles Stuart</hi> eldeſt Sonne to the late King, is ſaid to be this preſent <hi>Thurſday,</hi> to be proclaimed throughout the Cities of <hi>London</hi> and <hi>VVeſtminster,</hi> prohibiting all perſons what<g ref="char:EOLhyphen"/>ſoever, from acknowledging the ſaid <hi>Charles Stuart</hi> to be Prince of <hi>Wales,</hi> or to have any Right or Title ther<g ref="char:EOLhyphen"/>unto or to any other places whatſoever, throughout the two Nations of <hi>England</hi> and <hi>Ireland.</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <date>May 23. 1649.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <p>Imprimatur</p>
+                  <closer>
+                     <signed>T.J.</signed>
+                  </closer>
+               </postscript>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
